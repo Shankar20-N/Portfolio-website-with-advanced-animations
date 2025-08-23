@@ -18,3 +18,7 @@ A portfolio website with advanced animations is a visually stunning online platf
 3. Dynamic Visuals: The website incorporates dynamic visuals, such as videos, GIFs, and animations, to showcase projects and skills in a engaging way.
 4. Responsive Design: The website is fully responsive, ensuring that the animations and interactive elements work seamlessly across different devices and screen sizes.
 5. Storytelling: The website tells a story about the individual or company, highlighting their achievements, skills, and experiences through a narrative-driven design.
+
+#OUTPUT 
+
+file:///C:/Users/Shankar/Desktop/HTML/index.html
